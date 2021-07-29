@@ -1,0 +1,10 @@
+.Paper{
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+.submitbutton{
+    margin:10px;
+}
